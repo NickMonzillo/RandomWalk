@@ -47,7 +47,6 @@ int main()
 {
 	srand(time(NULL));
 	(void)rand();
-	putpixel(
 	cout<< simulate(10000000,0.5,1,-1,0) << endl;
 	system("pause");
 }
